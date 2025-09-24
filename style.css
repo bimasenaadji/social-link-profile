@@ -29,6 +29,7 @@ body {
   font-family: "Inter", sans-serif;
   color: #1e1e1e;
   font-size: var(--fs-base);
+  background-color: #141414;
 }
 
 .card {
